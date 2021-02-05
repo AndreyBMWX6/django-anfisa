@@ -1,0 +1,3 @@
+# ignoring generated files
+db.sqlite3
+.idea
